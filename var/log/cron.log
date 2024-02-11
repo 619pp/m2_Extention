@@ -1,0 +1,320 @@
+[2023-12-19T05:33:04.866775+00:00] main.INFO: Cron Job indexer_reindex_all_invalid is run [] []
+[2023-12-19T05:33:05.263014+00:00] main.INFO: Cron Job indexer_reindex_all_invalid is successfully finished. Statistics: {"sum":0.39647006988525,"count":1,"realmem":0,"emalloc":7351504,"realmem_start":192937984,"emalloc_start":179083768} [] []
+[2023-12-19T05:33:05.266994+00:00] main.INFO: Cron Job indexer_update_all_views is run [] []
+[2023-12-19T05:33:05.271917+00:00] main.INFO: Cron Job indexer_update_all_views is successfully finished. Statistics: {"sum":0.0049068927764893,"count":1,"realmem":0,"emalloc":17552,"realmem_start":192937984,"emalloc_start":186437472} [] []
+[2023-12-19T05:33:06.375210+00:00] main.INFO: Cron Job consumers_runner is run [] []
+[2023-12-19T05:33:06.418328+00:00] main.INFO: Cron Job consumers_runner is successfully finished. Statistics: {"sum":0.043292999267578,"count":1,"realmem":0,"emalloc":183512,"realmem_start":192937984,"emalloc_start":180162920} [] []
+[2023-12-19T05:33:06.433376+00:00] main.INFO: 0 cron jobs were cleaned [] []
+[2023-12-19T05:33:06.770363+00:00] main.INFO: Cron Job catalog_product_outdated_price_values_cleanup is run [] []
+[2023-12-19T05:33:06.770618+00:00] main.INFO: Cron Job catalog_product_outdated_price_values_cleanup is successfully finished. Statistics: {"sum":0.00024986267089844,"count":1,"realmem":0,"emalloc":1040,"realmem_start":192937984,"emalloc_start":179777960} [] []
+[2023-12-19T05:33:06.774892+00:00] main.INFO: Cron Job catalog_product_frontend_actions_flush is run [] []
+[2023-12-19T05:33:06.776350+00:00] main.INFO: Cron Job catalog_product_frontend_actions_flush is successfully finished. Statistics: {"sum":0.001446008682251,"count":1,"realmem":0,"emalloc":1448,"realmem_start":192937984,"emalloc_start":179803992} [] []
+[2023-12-19T05:33:06.780861+00:00] main.INFO: Cron Job outdated_authentication_failures_cleanup is run [] []
+[2023-12-19T05:33:06.782110+00:00] main.INFO: Cron Job outdated_authentication_failures_cleanup is successfully finished. Statistics: {"sum":0.0012369155883789,"count":1,"realmem":0,"emalloc":1448,"realmem_start":192937984,"emalloc_start":179828992} [] []
+[2023-12-19T05:33:06.788514+00:00] main.INFO: Cron Job sales_grid_order_async_insert is run [] []
+[2023-12-19T05:33:06.788768+00:00] main.INFO: Cron Job sales_grid_order_async_insert is successfully finished. Statistics: {"sum":0.00024795532226562,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":180000704} [] []
+[2023-12-19T05:33:06.791744+00:00] main.INFO: Cron Job sales_grid_order_invoice_async_insert is run [] []
+[2023-12-19T05:33:06.791962+00:00] main.INFO: Cron Job sales_grid_order_invoice_async_insert is successfully finished. Statistics: {"sum":0.0002129077911377,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":180005200} [] []
+[2023-12-19T05:33:06.794847+00:00] main.INFO: Cron Job sales_grid_order_shipment_async_insert is run [] []
+[2023-12-19T05:33:06.795067+00:00] main.INFO: Cron Job sales_grid_order_shipment_async_insert is successfully finished. Statistics: {"sum":0.00021505355834961,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":180008848} [] []
+[2023-12-19T05:33:06.798032+00:00] main.INFO: Cron Job sales_grid_order_creditmemo_async_insert is run [] []
+[2023-12-19T05:33:06.798272+00:00] main.INFO: Cron Job sales_grid_order_creditmemo_async_insert is successfully finished. Statistics: {"sum":0.00023388862609863,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":180012624} [] []
+[2023-12-19T05:33:06.856640+00:00] main.INFO: Cron Job sales_send_order_emails is run [] []
+[2023-12-19T05:33:06.856895+00:00] main.INFO: Cron Job sales_send_order_emails is successfully finished. Statistics: {"sum":0.00025010108947754,"count":1,"realmem":0,"emalloc":1056,"realmem_start":192937984,"emalloc_start":182037496} [] []
+[2023-12-19T05:33:06.864849+00:00] main.INFO: Cron Job sales_send_order_invoice_emails is run [] []
+[2023-12-19T05:33:06.865100+00:00] main.INFO: Cron Job sales_send_order_invoice_emails is successfully finished. Statistics: {"sum":0.00024890899658203,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":182379088} [] []
+[2023-12-19T05:33:06.872745+00:00] main.INFO: Cron Job sales_send_order_shipment_emails is run [] []
+[2023-12-19T05:33:06.872993+00:00] main.INFO: Cron Job sales_send_order_shipment_emails is successfully finished. Statistics: {"sum":0.0002439022064209,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":182635248} [] []
+[2023-12-19T05:33:06.880344+00:00] main.INFO: Cron Job sales_send_order_creditmemo_emails is run [] []
+[2023-12-19T05:33:06.880596+00:00] main.INFO: Cron Job sales_send_order_creditmemo_emails is successfully finished. Statistics: {"sum":0.00024604797363281,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":182938504} [] []
+[2023-12-19T05:33:06.887261+00:00] main.INFO: Cron Job inventory_in_store_pickup_sales_send_order_notified_emails is run [] []
+[2023-12-19T05:33:06.887517+00:00] main.INFO: Cron Job inventory_in_store_pickup_sales_send_order_notified_emails is successfully finished. Statistics: {"sum":0.00025391578674316,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":183073792} [] []
+[2023-12-19T05:33:06.892086+00:00] main.INFO: Cron Job bulk_cleanup is run [] []
+[2023-12-19T05:33:06.893681+00:00] main.INFO: Cron Job bulk_cleanup is successfully finished. Statistics: {"sum":0.0015640258789062,"count":1,"realmem":0,"emalloc":2360,"realmem_start":192937984,"emalloc_start":183080064} [] []
+[2023-12-19T05:33:06.897598+00:00] main.INFO: Cron Job demo_cron is run [] []
+[2023-12-19T05:33:06.900140+00:00] main.INFO: Cron Job demo_cron is successfully finished. Statistics: {"sum":0.0025269985198975,"count":1,"realmem":0,"emalloc":21288,"realmem_start":192937984,"emalloc_start":183085848} [] []
+[2023-12-19T05:33:06.903354+00:00] main.INFO: Cron Job mageplaza_helloworld_cron is run [] []
+[2023-12-19T05:33:06.903777+00:00] main.ERROR: Cron Job mageplaza_helloworld_cron has an error: Class "Zend\Log\Writer\Stream" not found. Statistics: {"sum":0,"count":1,"realmem":0,"emalloc":0,"realmem_start":192937984,"emalloc_start":183109064} [] []
+[2023-12-19T05:33:06.904088+00:00] main.CRITICAL: Error: Class "Zend\Log\Writer\Stream" not found in C:\xampp\htdocs\mage2rock\app\code\Mageplaza\HelloWorld\Cron\Test.php:11
+Stack trace:
+#0 [internal function]: Mageplaza\HelloWorld\Cron\Test->execute(Object(Magento\Cron\Model\Schedule))
+#1 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(368): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(879): Magento\Cron\Observer\ProcessCronQueueObserver->_runJob(1702963980, 1702963983, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#3 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(840): Magento\Cron\Observer\ProcessCronQueueObserver->tryRunJob(1702963980, 1702963983, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#4 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(280): Magento\Cron\Observer\ProcessCronQueueObserver->processPendingJobs('default', Array, 1702963983)
+#5 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(88): Magento\Cron\Observer\ProcessCronQueueObserver->execute(Object(Magento\Framework\Event\Observer))
+#6 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(74): Magento\Framework\Event\Invoker\InvokerDefault->_callObserverMethod(Object(Magento\Cron\Observer\ProcessCronQueueObserver), Object(Magento\Framework\Event\Observer))
+#7 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Manager.php(65): Magento\Framework\Event\Invoker\InvokerDefault->dispatch(Array, Object(Magento\Framework\Event\Observer))
+#8 C:\xampp\htdocs\mage2rock\generated\code\Magento\Framework\Event\Manager\Proxy.php(95): Magento\Framework\Event\Manager->dispatch('default', Array)
+#9 C:\xampp\htdocs\mage2rock\vendor\magento\framework\App\Cron.php(86): Magento\Framework\Event\Manager\Proxy->dispatch('default')
+#10 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Console\Command\CronCommand.php(126): Magento\Framework\App\Cron->launch()
+#11 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Command\Command.php(298): Magento\Cron\Console\Command\CronCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(138): Magento\Cron\Console\Command\CronCommand\Interceptor->___callParent('run', Array)
+#14 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(153): Magento\Cron\Console\Command\CronCommand\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\xampp\htdocs\mage2rock\generated\code\Magento\Cron\Console\Command\CronCommand\Interceptor.php(23): Magento\Cron\Console\Command\CronCommand\Interceptor->___callPlugins('run', Array, Array)
+#16 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(1040): Magento\Cron\Console\Command\CronCommand\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#17 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Cron\Console\Command\CronCommand\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Console\Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#19 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#20 C:\xampp\htdocs\mage2rock\bin\magento(23): Symfony\Component\Console\Application->run()
+#21 {main}
+
+Next RuntimeException: Error when running a cron job: Class "Zend\Log\Writer\Stream" not found in C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php:380
+Stack trace:
+#0 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(879): Magento\Cron\Observer\ProcessCronQueueObserver->_runJob(1702963980, 1702963983, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#1 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(840): Magento\Cron\Observer\ProcessCronQueueObserver->tryRunJob(1702963980, 1702963983, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#2 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(280): Magento\Cron\Observer\ProcessCronQueueObserver->processPendingJobs('default', Array, 1702963983)
+#3 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(88): Magento\Cron\Observer\ProcessCronQueueObserver->execute(Object(Magento\Framework\Event\Observer))
+#4 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(74): Magento\Framework\Event\Invoker\InvokerDefault->_callObserverMethod(Object(Magento\Cron\Observer\ProcessCronQueueObserver), Object(Magento\Framework\Event\Observer))
+#5 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Manager.php(65): Magento\Framework\Event\Invoker\InvokerDefault->dispatch(Array, Object(Magento\Framework\Event\Observer))
+#6 C:\xampp\htdocs\mage2rock\generated\code\Magento\Framework\Event\Manager\Proxy.php(95): Magento\Framework\Event\Manager->dispatch('default', Array)
+#7 C:\xampp\htdocs\mage2rock\vendor\magento\framework\App\Cron.php(86): Magento\Framework\Event\Manager\Proxy->dispatch('default')
+#8 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Console\Command\CronCommand.php(126): Magento\Framework\App\Cron->launch()
+#9 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Command\Command.php(298): Magento\Cron\Console\Command\CronCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(138): Magento\Cron\Console\Command\CronCommand\Interceptor->___callParent('run', Array)
+#12 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(153): Magento\Cron\Console\Command\CronCommand\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\xampp\htdocs\mage2rock\generated\code\Magento\Cron\Console\Command\CronCommand\Interceptor.php(23): Magento\Cron\Console\Command\CronCommand\Interceptor->___callPlugins('run', Array, Array)
+#14 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(1040): Magento\Cron\Console\Command\CronCommand\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Cron\Console\Command\CronCommand\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#16 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Console\Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#17 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 C:\xampp\htdocs\mage2rock\bin\magento(23): Symfony\Component\Console\Application->run()
+#19 {main} [] []
+[2023-12-19T05:37:29.206662+00:00] main.INFO: Cron Job indexer_reindex_all_invalid is run [] []
+[2023-12-19T05:37:29.218272+00:00] main.INFO: Cron Job indexer_reindex_all_invalid is successfully finished. Statistics: {"sum":0.011852025985718,"count":1,"realmem":0,"emalloc":286536,"realmem_start":192937984,"emalloc_start":179111912} [] []
+[2023-12-19T05:37:29.228483+00:00] main.INFO: Cron Job indexer_update_all_views is run [] []
+[2023-12-19T05:37:29.238782+00:00] main.INFO: Cron Job indexer_update_all_views is successfully finished. Statistics: {"sum":0.010262012481689,"count":1,"realmem":0,"emalloc":128024,"realmem_start":192937984,"emalloc_start":179402440} [] []
+[2023-12-19T05:37:30.327620+00:00] main.INFO: Cron Job consumers_runner is run [] []
+[2023-12-19T05:37:30.369562+00:00] main.INFO: Cron Job consumers_runner is successfully finished. Statistics: {"sum":0.042112112045288,"count":1,"realmem":0,"emalloc":184680,"realmem_start":192937984,"emalloc_start":179485032} [] []
+[2023-12-19T05:37:30.407370+00:00] main.INFO: Cron Job catalog_product_outdated_price_values_cleanup is run [] []
+[2023-12-19T05:37:30.408892+00:00] main.INFO: Cron Job catalog_product_outdated_price_values_cleanup is successfully finished. Statistics: {"sum":0.0017900466918945,"count":1,"realmem":0,"emalloc":6552,"realmem_start":192937984,"emalloc_start":179519608} [] []
+[2023-12-19T05:37:30.414906+00:00] main.INFO: Cron Job catalog_product_frontend_actions_flush is run [] []
+[2023-12-19T05:37:30.415619+00:00] main.INFO: Cron Job catalog_product_frontend_actions_flush is successfully finished. Statistics: {"sum":0.00070309638977051,"count":1,"realmem":0,"emalloc":1512,"realmem_start":192937984,"emalloc_start":179551232} [] []
+[2023-12-19T05:37:30.420264+00:00] main.INFO: Cron Job catalog_product_attribute_value_synchronize is run [] []
+[2023-12-19T05:37:30.421889+00:00] main.INFO: Cron Job catalog_product_attribute_value_synchronize is successfully finished. Statistics: {"sum":0.0016179084777832,"count":1,"realmem":0,"emalloc":20840,"realmem_start":192937984,"emalloc_start":179655848} [] []
+[2023-12-19T05:37:30.426889+00:00] main.INFO: Cron Job outdated_authentication_failures_cleanup is run [] []
+[2023-12-19T05:37:30.427308+00:00] main.INFO: Cron Job outdated_authentication_failures_cleanup is successfully finished. Statistics: {"sum":0.00041103363037109,"count":1,"realmem":0,"emalloc":1448,"realmem_start":192937984,"emalloc_start":179700264} [] []
+[2023-12-19T05:37:30.434640+00:00] main.INFO: Cron Job sales_grid_order_async_insert is run [] []
+[2023-12-19T05:37:30.434935+00:00] main.INFO: Cron Job sales_grid_order_async_insert is successfully finished. Statistics: {"sum":0.0002899169921875,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":179806440} [] []
+[2023-12-19T05:37:30.438463+00:00] main.INFO: Cron Job sales_grid_order_invoice_async_insert is run [] []
+[2023-12-19T05:37:30.438765+00:00] main.INFO: Cron Job sales_grid_order_invoice_async_insert is successfully finished. Statistics: {"sum":0.00029778480529785,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":179810936} [] []
+[2023-12-19T05:37:30.441979+00:00] main.INFO: Cron Job sales_grid_order_shipment_async_insert is run [] []
+[2023-12-19T05:37:30.442284+00:00] main.INFO: Cron Job sales_grid_order_shipment_async_insert is successfully finished. Statistics: {"sum":0.00029492378234863,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":179814584} [] []
+[2023-12-19T05:37:30.446654+00:00] main.INFO: Cron Job sales_grid_order_creditmemo_async_insert is run [] []
+[2023-12-19T05:37:30.446933+00:00] main.INFO: Cron Job sales_grid_order_creditmemo_async_insert is successfully finished. Statistics: {"sum":0.00027608871459961,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":179818360} [] []
+[2023-12-19T05:37:30.474769+00:00] main.INFO: Cron Job sales_send_order_emails is run [] []
+[2023-12-19T05:37:30.475045+00:00] main.INFO: Cron Job sales_send_order_emails is successfully finished. Statistics: {"sum":0.00027084350585938,"count":1,"realmem":0,"emalloc":1056,"realmem_start":192937984,"emalloc_start":181819072} [] []
+[2023-12-19T05:37:30.483438+00:00] main.INFO: Cron Job sales_send_order_invoice_emails is run [] []
+[2023-12-19T05:37:30.483694+00:00] main.INFO: Cron Job sales_send_order_invoice_emails is successfully finished. Statistics: {"sum":0.00025081634521484,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":182160984} [] []
+[2023-12-19T05:37:30.490980+00:00] main.INFO: Cron Job sales_send_order_shipment_emails is run [] []
+[2023-12-19T05:37:30.491230+00:00] main.INFO: Cron Job sales_send_order_shipment_emails is successfully finished. Statistics: {"sum":0.00024509429931641,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":182416824} [] []
+[2023-12-19T05:37:30.498375+00:00] main.INFO: Cron Job sales_send_order_creditmemo_emails is run [] []
+[2023-12-19T05:37:30.498647+00:00] main.INFO: Cron Job sales_send_order_creditmemo_emails is successfully finished. Statistics: {"sum":0.00026702880859375,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":182785616} [] []
+[2023-12-19T05:37:30.503808+00:00] main.INFO: Cron Job inventory_in_store_pickup_sales_send_order_notified_emails is run [] []
+[2023-12-19T05:37:30.504121+00:00] main.INFO: Cron Job inventory_in_store_pickup_sales_send_order_notified_emails is successfully finished. Statistics: {"sum":0.00030994415283203,"count":1,"realmem":0,"emalloc":1072,"realmem_start":192937984,"emalloc_start":182834888} [] []
+[2023-12-19T05:37:30.525118+00:00] main.INFO: Cron Job magento_newrelicreporting_cron is run [] []
+[2023-12-19T05:37:30.525424+00:00] main.INFO: Cron Job magento_newrelicreporting_cron is successfully finished. Statistics: {"sum":0.00030303001403809,"count":1,"realmem":0,"emalloc":1024,"realmem_start":192937984,"emalloc_start":184028016} [] []
+[2023-12-19T05:37:30.530661+00:00] main.INFO: Cron Job newsletter_send_all is run [] []
+[2023-12-19T05:37:30.552534+00:00] main.INFO: Cron Job newsletter_send_all is successfully finished. Statistics: {"sum":0.021851062774658,"count":1,"realmem":0,"emalloc":434760,"realmem_start":192937984,"emalloc_start":184035944} [] []
+[2023-12-19T05:37:30.557403+00:00] main.INFO: Cron Job bulk_cleanup is run [] []
+[2023-12-19T05:37:30.558424+00:00] main.INFO: Cron Job bulk_cleanup is successfully finished. Statistics: {"sum":0.0010030269622803,"count":1,"realmem":0,"emalloc":2360,"realmem_start":192937984,"emalloc_start":184476096} [] []
+[2023-12-19T05:37:30.562475+00:00] main.INFO: Cron Job demo_cron is run [] []
+[2023-12-19T05:37:30.565168+00:00] main.INFO: Cron Job demo_cron is successfully finished. Statistics: {"sum":0.0026760101318359,"count":1,"realmem":0,"emalloc":21608,"realmem_start":192937984,"emalloc_start":184481880} [] []
+[2023-12-19T05:37:30.569686+00:00] main.INFO: Cron Job mageplaza_helloworld_cron is run [] []
+[2023-12-19T05:37:30.570177+00:00] main.ERROR: Cron Job mageplaza_helloworld_cron has an error: Class "Zend\Log\Writer\Stream" not found. Statistics: {"sum":0,"count":1,"realmem":0,"emalloc":0,"realmem_start":192937984,"emalloc_start":184506056} [] []
+[2023-12-19T05:37:30.570541+00:00] main.CRITICAL: Error: Class "Zend\Log\Writer\Stream" not found in C:\xampp\htdocs\mage2rock\app\code\Mageplaza\HelloWorld\Cron\Test.php:11
+Stack trace:
+#0 [internal function]: Mageplaza\HelloWorld\Cron\Test->execute(Object(Magento\Cron\Model\Schedule))
+#1 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(368): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(879): Magento\Cron\Observer\ProcessCronQueueObserver->_runJob(1702964040, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#3 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(840): Magento\Cron\Observer\ProcessCronQueueObserver->tryRunJob(1702964040, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#4 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(280): Magento\Cron\Observer\ProcessCronQueueObserver->processPendingJobs('default', Array, 1702964248)
+#5 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(88): Magento\Cron\Observer\ProcessCronQueueObserver->execute(Object(Magento\Framework\Event\Observer))
+#6 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(74): Magento\Framework\Event\Invoker\InvokerDefault->_callObserverMethod(Object(Magento\Cron\Observer\ProcessCronQueueObserver), Object(Magento\Framework\Event\Observer))
+#7 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Manager.php(65): Magento\Framework\Event\Invoker\InvokerDefault->dispatch(Array, Object(Magento\Framework\Event\Observer))
+#8 C:\xampp\htdocs\mage2rock\generated\code\Magento\Framework\Event\Manager\Proxy.php(95): Magento\Framework\Event\Manager->dispatch('default', Array)
+#9 C:\xampp\htdocs\mage2rock\vendor\magento\framework\App\Cron.php(86): Magento\Framework\Event\Manager\Proxy->dispatch('default')
+#10 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Console\Command\CronCommand.php(126): Magento\Framework\App\Cron->launch()
+#11 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Command\Command.php(298): Magento\Cron\Console\Command\CronCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(138): Magento\Cron\Console\Command\CronCommand\Interceptor->___callParent('run', Array)
+#14 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(153): Magento\Cron\Console\Command\CronCommand\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\xampp\htdocs\mage2rock\generated\code\Magento\Cron\Console\Command\CronCommand\Interceptor.php(23): Magento\Cron\Console\Command\CronCommand\Interceptor->___callPlugins('run', Array, Array)
+#16 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(1040): Magento\Cron\Console\Command\CronCommand\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#17 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Cron\Console\Command\CronCommand\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Console\Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#19 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#20 C:\xampp\htdocs\mage2rock\bin\magento(23): Symfony\Component\Console\Application->run()
+#21 {main}
+
+Next RuntimeException: Error when running a cron job: Class "Zend\Log\Writer\Stream" not found in C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php:380
+Stack trace:
+#0 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(879): Magento\Cron\Observer\ProcessCronQueueObserver->_runJob(1702964040, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#1 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(840): Magento\Cron\Observer\ProcessCronQueueObserver->tryRunJob(1702964040, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#2 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(280): Magento\Cron\Observer\ProcessCronQueueObserver->processPendingJobs('default', Array, 1702964248)
+#3 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(88): Magento\Cron\Observer\ProcessCronQueueObserver->execute(Object(Magento\Framework\Event\Observer))
+#4 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(74): Magento\Framework\Event\Invoker\InvokerDefault->_callObserverMethod(Object(Magento\Cron\Observer\ProcessCronQueueObserver), Object(Magento\Framework\Event\Observer))
+#5 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Manager.php(65): Magento\Framework\Event\Invoker\InvokerDefault->dispatch(Array, Object(Magento\Framework\Event\Observer))
+#6 C:\xampp\htdocs\mage2rock\generated\code\Magento\Framework\Event\Manager\Proxy.php(95): Magento\Framework\Event\Manager->dispatch('default', Array)
+#7 C:\xampp\htdocs\mage2rock\vendor\magento\framework\App\Cron.php(86): Magento\Framework\Event\Manager\Proxy->dispatch('default')
+#8 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Console\Command\CronCommand.php(126): Magento\Framework\App\Cron->launch()
+#9 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Command\Command.php(298): Magento\Cron\Console\Command\CronCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(138): Magento\Cron\Console\Command\CronCommand\Interceptor->___callParent('run', Array)
+#12 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(153): Magento\Cron\Console\Command\CronCommand\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\xampp\htdocs\mage2rock\generated\code\Magento\Cron\Console\Command\CronCommand\Interceptor.php(23): Magento\Cron\Console\Command\CronCommand\Interceptor->___callPlugins('run', Array, Array)
+#14 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(1040): Magento\Cron\Console\Command\CronCommand\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Cron\Console\Command\CronCommand\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#16 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Console\Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#17 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 C:\xampp\htdocs\mage2rock\bin\magento(23): Symfony\Component\Console\Application->run()
+#19 {main} [] []
+[2023-12-19T05:37:30.575092+00:00] main.INFO: Cron Job mageplaza_helloworld_cron is run [] []
+[2023-12-19T05:37:30.575434+00:00] main.ERROR: Cron Job mageplaza_helloworld_cron has an error: Class "Zend\Log\Writer\Stream" not found. Statistics: {"sum":0,"count":1,"realmem":0,"emalloc":0,"realmem_start":192937984,"emalloc_start":184552288} [] []
+[2023-12-19T05:37:30.575777+00:00] main.CRITICAL: Error: Class "Zend\Log\Writer\Stream" not found in C:\xampp\htdocs\mage2rock\app\code\Mageplaza\HelloWorld\Cron\Test.php:11
+Stack trace:
+#0 [internal function]: Mageplaza\HelloWorld\Cron\Test->execute(Object(Magento\Cron\Model\Schedule))
+#1 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(368): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(879): Magento\Cron\Observer\ProcessCronQueueObserver->_runJob(1702964100, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#3 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(840): Magento\Cron\Observer\ProcessCronQueueObserver->tryRunJob(1702964100, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#4 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(280): Magento\Cron\Observer\ProcessCronQueueObserver->processPendingJobs('default', Array, 1702964248)
+#5 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(88): Magento\Cron\Observer\ProcessCronQueueObserver->execute(Object(Magento\Framework\Event\Observer))
+#6 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(74): Magento\Framework\Event\Invoker\InvokerDefault->_callObserverMethod(Object(Magento\Cron\Observer\ProcessCronQueueObserver), Object(Magento\Framework\Event\Observer))
+#7 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Manager.php(65): Magento\Framework\Event\Invoker\InvokerDefault->dispatch(Array, Object(Magento\Framework\Event\Observer))
+#8 C:\xampp\htdocs\mage2rock\generated\code\Magento\Framework\Event\Manager\Proxy.php(95): Magento\Framework\Event\Manager->dispatch('default', Array)
+#9 C:\xampp\htdocs\mage2rock\vendor\magento\framework\App\Cron.php(86): Magento\Framework\Event\Manager\Proxy->dispatch('default')
+#10 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Console\Command\CronCommand.php(126): Magento\Framework\App\Cron->launch()
+#11 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Command\Command.php(298): Magento\Cron\Console\Command\CronCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(138): Magento\Cron\Console\Command\CronCommand\Interceptor->___callParent('run', Array)
+#14 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(153): Magento\Cron\Console\Command\CronCommand\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\xampp\htdocs\mage2rock\generated\code\Magento\Cron\Console\Command\CronCommand\Interceptor.php(23): Magento\Cron\Console\Command\CronCommand\Interceptor->___callPlugins('run', Array, Array)
+#16 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(1040): Magento\Cron\Console\Command\CronCommand\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#17 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Cron\Console\Command\CronCommand\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Console\Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#19 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#20 C:\xampp\htdocs\mage2rock\bin\magento(23): Symfony\Component\Console\Application->run()
+#21 {main}
+
+Next RuntimeException: Error when running a cron job: Class "Zend\Log\Writer\Stream" not found in C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php:380
+Stack trace:
+#0 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(879): Magento\Cron\Observer\ProcessCronQueueObserver->_runJob(1702964100, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#1 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(840): Magento\Cron\Observer\ProcessCronQueueObserver->tryRunJob(1702964100, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#2 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(280): Magento\Cron\Observer\ProcessCronQueueObserver->processPendingJobs('default', Array, 1702964248)
+#3 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(88): Magento\Cron\Observer\ProcessCronQueueObserver->execute(Object(Magento\Framework\Event\Observer))
+#4 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(74): Magento\Framework\Event\Invoker\InvokerDefault->_callObserverMethod(Object(Magento\Cron\Observer\ProcessCronQueueObserver), Object(Magento\Framework\Event\Observer))
+#5 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Manager.php(65): Magento\Framework\Event\Invoker\InvokerDefault->dispatch(Array, Object(Magento\Framework\Event\Observer))
+#6 C:\xampp\htdocs\mage2rock\generated\code\Magento\Framework\Event\Manager\Proxy.php(95): Magento\Framework\Event\Manager->dispatch('default', Array)
+#7 C:\xampp\htdocs\mage2rock\vendor\magento\framework\App\Cron.php(86): Magento\Framework\Event\Manager\Proxy->dispatch('default')
+#8 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Console\Command\CronCommand.php(126): Magento\Framework\App\Cron->launch()
+#9 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Command\Command.php(298): Magento\Cron\Console\Command\CronCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(138): Magento\Cron\Console\Command\CronCommand\Interceptor->___callParent('run', Array)
+#12 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(153): Magento\Cron\Console\Command\CronCommand\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\xampp\htdocs\mage2rock\generated\code\Magento\Cron\Console\Command\CronCommand\Interceptor.php(23): Magento\Cron\Console\Command\CronCommand\Interceptor->___callPlugins('run', Array, Array)
+#14 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(1040): Magento\Cron\Console\Command\CronCommand\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Cron\Console\Command\CronCommand\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#16 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Console\Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#17 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 C:\xampp\htdocs\mage2rock\bin\magento(23): Symfony\Component\Console\Application->run()
+#19 {main} [] []
+[2023-12-19T05:37:30.579427+00:00] main.INFO: Cron Job mageplaza_helloworld_cron is run [] []
+[2023-12-19T05:37:30.579752+00:00] main.ERROR: Cron Job mageplaza_helloworld_cron has an error: Class "Zend\Log\Writer\Stream" not found. Statistics: {"sum":0,"count":1,"realmem":0,"emalloc":0,"realmem_start":192937984,"emalloc_start":184553016} [] []
+[2023-12-19T05:37:30.580067+00:00] main.CRITICAL: Error: Class "Zend\Log\Writer\Stream" not found in C:\xampp\htdocs\mage2rock\app\code\Mageplaza\HelloWorld\Cron\Test.php:11
+Stack trace:
+#0 [internal function]: Mageplaza\HelloWorld\Cron\Test->execute(Object(Magento\Cron\Model\Schedule))
+#1 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(368): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(879): Magento\Cron\Observer\ProcessCronQueueObserver->_runJob(1702964160, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#3 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(840): Magento\Cron\Observer\ProcessCronQueueObserver->tryRunJob(1702964160, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#4 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(280): Magento\Cron\Observer\ProcessCronQueueObserver->processPendingJobs('default', Array, 1702964248)
+#5 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(88): Magento\Cron\Observer\ProcessCronQueueObserver->execute(Object(Magento\Framework\Event\Observer))
+#6 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(74): Magento\Framework\Event\Invoker\InvokerDefault->_callObserverMethod(Object(Magento\Cron\Observer\ProcessCronQueueObserver), Object(Magento\Framework\Event\Observer))
+#7 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Manager.php(65): Magento\Framework\Event\Invoker\InvokerDefault->dispatch(Array, Object(Magento\Framework\Event\Observer))
+#8 C:\xampp\htdocs\mage2rock\generated\code\Magento\Framework\Event\Manager\Proxy.php(95): Magento\Framework\Event\Manager->dispatch('default', Array)
+#9 C:\xampp\htdocs\mage2rock\vendor\magento\framework\App\Cron.php(86): Magento\Framework\Event\Manager\Proxy->dispatch('default')
+#10 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Console\Command\CronCommand.php(126): Magento\Framework\App\Cron->launch()
+#11 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Command\Command.php(298): Magento\Cron\Console\Command\CronCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(138): Magento\Cron\Console\Command\CronCommand\Interceptor->___callParent('run', Array)
+#14 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(153): Magento\Cron\Console\Command\CronCommand\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\xampp\htdocs\mage2rock\generated\code\Magento\Cron\Console\Command\CronCommand\Interceptor.php(23): Magento\Cron\Console\Command\CronCommand\Interceptor->___callPlugins('run', Array, Array)
+#16 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(1040): Magento\Cron\Console\Command\CronCommand\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#17 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Cron\Console\Command\CronCommand\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Console\Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#19 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#20 C:\xampp\htdocs\mage2rock\bin\magento(23): Symfony\Component\Console\Application->run()
+#21 {main}
+
+Next RuntimeException: Error when running a cron job: Class "Zend\Log\Writer\Stream" not found in C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php:380
+Stack trace:
+#0 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(879): Magento\Cron\Observer\ProcessCronQueueObserver->_runJob(1702964160, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#1 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(840): Magento\Cron\Observer\ProcessCronQueueObserver->tryRunJob(1702964160, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#2 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(280): Magento\Cron\Observer\ProcessCronQueueObserver->processPendingJobs('default', Array, 1702964248)
+#3 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(88): Magento\Cron\Observer\ProcessCronQueueObserver->execute(Object(Magento\Framework\Event\Observer))
+#4 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(74): Magento\Framework\Event\Invoker\InvokerDefault->_callObserverMethod(Object(Magento\Cron\Observer\ProcessCronQueueObserver), Object(Magento\Framework\Event\Observer))
+#5 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Manager.php(65): Magento\Framework\Event\Invoker\InvokerDefault->dispatch(Array, Object(Magento\Framework\Event\Observer))
+#6 C:\xampp\htdocs\mage2rock\generated\code\Magento\Framework\Event\Manager\Proxy.php(95): Magento\Framework\Event\Manager->dispatch('default', Array)
+#7 C:\xampp\htdocs\mage2rock\vendor\magento\framework\App\Cron.php(86): Magento\Framework\Event\Manager\Proxy->dispatch('default')
+#8 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Console\Command\CronCommand.php(126): Magento\Framework\App\Cron->launch()
+#9 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Command\Command.php(298): Magento\Cron\Console\Command\CronCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(138): Magento\Cron\Console\Command\CronCommand\Interceptor->___callParent('run', Array)
+#12 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(153): Magento\Cron\Console\Command\CronCommand\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\xampp\htdocs\mage2rock\generated\code\Magento\Cron\Console\Command\CronCommand\Interceptor.php(23): Magento\Cron\Console\Command\CronCommand\Interceptor->___callPlugins('run', Array, Array)
+#14 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(1040): Magento\Cron\Console\Command\CronCommand\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Cron\Console\Command\CronCommand\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#16 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Console\Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#17 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 C:\xampp\htdocs\mage2rock\bin\magento(23): Symfony\Component\Console\Application->run()
+#19 {main} [] []
+[2023-12-19T05:37:30.583039+00:00] main.INFO: Cron Job mageplaza_helloworld_cron is run [] []
+[2023-12-19T05:37:30.583358+00:00] main.ERROR: Cron Job mageplaza_helloworld_cron has an error: Class "Zend\Log\Writer\Stream" not found. Statistics: {"sum":0,"count":1,"realmem":0,"emalloc":0,"realmem_start":192937984,"emalloc_start":184553744} [] []
+[2023-12-19T05:37:30.583693+00:00] main.CRITICAL: Error: Class "Zend\Log\Writer\Stream" not found in C:\xampp\htdocs\mage2rock\app\code\Mageplaza\HelloWorld\Cron\Test.php:11
+Stack trace:
+#0 [internal function]: Mageplaza\HelloWorld\Cron\Test->execute(Object(Magento\Cron\Model\Schedule))
+#1 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(368): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(879): Magento\Cron\Observer\ProcessCronQueueObserver->_runJob(1702964220, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#3 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(840): Magento\Cron\Observer\ProcessCronQueueObserver->tryRunJob(1702964220, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#4 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(280): Magento\Cron\Observer\ProcessCronQueueObserver->processPendingJobs('default', Array, 1702964248)
+#5 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(88): Magento\Cron\Observer\ProcessCronQueueObserver->execute(Object(Magento\Framework\Event\Observer))
+#6 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(74): Magento\Framework\Event\Invoker\InvokerDefault->_callObserverMethod(Object(Magento\Cron\Observer\ProcessCronQueueObserver), Object(Magento\Framework\Event\Observer))
+#7 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Manager.php(65): Magento\Framework\Event\Invoker\InvokerDefault->dispatch(Array, Object(Magento\Framework\Event\Observer))
+#8 C:\xampp\htdocs\mage2rock\generated\code\Magento\Framework\Event\Manager\Proxy.php(95): Magento\Framework\Event\Manager->dispatch('default', Array)
+#9 C:\xampp\htdocs\mage2rock\vendor\magento\framework\App\Cron.php(86): Magento\Framework\Event\Manager\Proxy->dispatch('default')
+#10 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Console\Command\CronCommand.php(126): Magento\Framework\App\Cron->launch()
+#11 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Command\Command.php(298): Magento\Cron\Console\Command\CronCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(138): Magento\Cron\Console\Command\CronCommand\Interceptor->___callParent('run', Array)
+#14 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(153): Magento\Cron\Console\Command\CronCommand\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\xampp\htdocs\mage2rock\generated\code\Magento\Cron\Console\Command\CronCommand\Interceptor.php(23): Magento\Cron\Console\Command\CronCommand\Interceptor->___callPlugins('run', Array, Array)
+#16 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(1040): Magento\Cron\Console\Command\CronCommand\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#17 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Cron\Console\Command\CronCommand\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Console\Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#19 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#20 C:\xampp\htdocs\mage2rock\bin\magento(23): Symfony\Component\Console\Application->run()
+#21 {main}
+
+Next RuntimeException: Error when running a cron job: Class "Zend\Log\Writer\Stream" not found in C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php:380
+Stack trace:
+#0 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(879): Magento\Cron\Observer\ProcessCronQueueObserver->_runJob(1702964220, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#1 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(840): Magento\Cron\Observer\ProcessCronQueueObserver->tryRunJob(1702964220, 1702964248, Array, Object(Magento\Cron\Model\Schedule), 'default')
+#2 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Observer\ProcessCronQueueObserver.php(280): Magento\Cron\Observer\ProcessCronQueueObserver->processPendingJobs('default', Array, 1702964248)
+#3 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(88): Magento\Cron\Observer\ProcessCronQueueObserver->execute(Object(Magento\Framework\Event\Observer))
+#4 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Invoker\InvokerDefault.php(74): Magento\Framework\Event\Invoker\InvokerDefault->_callObserverMethod(Object(Magento\Cron\Observer\ProcessCronQueueObserver), Object(Magento\Framework\Event\Observer))
+#5 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Event\Manager.php(65): Magento\Framework\Event\Invoker\InvokerDefault->dispatch(Array, Object(Magento\Framework\Event\Observer))
+#6 C:\xampp\htdocs\mage2rock\generated\code\Magento\Framework\Event\Manager\Proxy.php(95): Magento\Framework\Event\Manager->dispatch('default', Array)
+#7 C:\xampp\htdocs\mage2rock\vendor\magento\framework\App\Cron.php(86): Magento\Framework\Event\Manager\Proxy->dispatch('default')
+#8 C:\xampp\htdocs\mage2rock\vendor\magento\module-cron\Console\Command\CronCommand.php(126): Magento\Framework\App\Cron->launch()
+#9 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Command\Command.php(298): Magento\Cron\Console\Command\CronCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(138): Magento\Cron\Console\Command\CronCommand\Interceptor->___callParent('run', Array)
+#12 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Interception\Interceptor.php(153): Magento\Cron\Console\Command\CronCommand\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\xampp\htdocs\mage2rock\generated\code\Magento\Cron\Console\Command\CronCommand\Interceptor.php(23): Magento\Cron\Console\Command\CronCommand\Interceptor->___callPlugins('run', Array, Array)
+#14 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(1040): Magento\Cron\Console\Command\CronCommand\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Cron\Console\Command\CronCommand\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#16 C:\xampp\htdocs\mage2rock\vendor\magento\framework\Console\Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#17 C:\xampp\htdocs\mage2rock\vendor\symfony\console\Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 C:\xampp\htdocs\mage2rock\bin\magento(23): Symfony\Component\Console\Application->run()
+#19 {main} [] []
